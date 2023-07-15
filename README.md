@@ -1,16 +1,46 @@
-### Hi there 👋
+# <b>Mapping shit since 2017🗺️❌</b>
 
-<!--
-**Mapper504b0304/Mapper504b0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# PGP key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.63
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+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
+J6RiRn3hbNbPfYRZDmPYaMOM
+=VBht
+-----END PGP PUBLIC KEY BLOCK-----
+```
